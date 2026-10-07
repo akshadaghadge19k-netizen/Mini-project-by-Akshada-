@@ -8,9 +8,9 @@ Design and implement a console-based Playlist Management System in C++ using a S
 4. To display all songs currently available in the playlist.
 5. To understand the practical application of singly linked lists and dynamic memory allocation.
 ## Features
--Insert a new song
-Delete a song
-Search a song by name
-Display the complete playlist
-Menu-driven console interface
-Dynamic memory allocation
+- Insert a new song.
+- Delete a song.
+- Search a song by name.
+- Display the complete playlist.
+- Menu-driven console interface.
+- Dynamic memory allocation.
